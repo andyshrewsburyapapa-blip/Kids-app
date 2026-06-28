@@ -1,0 +1,6 @@
+{
+  "name": "Kids Learning Games",
+  "description": "An endless collection of educational games and puzzles for kids, powered by Gemini AI and interactive offline games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
